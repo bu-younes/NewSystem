@@ -23,7 +23,7 @@ public class Duplicate {
 		}
 		if (names[i]!="0")
 		{
-		System.out.println(names[i] +" > is repated "+ (count) + " times");}
+		System.out.println(names[i] +" : Is Repated "+ (count) + " Times");}
 		
 	}
 	
